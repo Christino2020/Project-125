@@ -1,0 +1,20 @@
+#header{
+    font-family:"Dancing Script";
+    color: black;
+    height:100%;
+    width:100%;
+    font-size: xx-large;
+    }
+    .Note{
+        font-size: xx-large;
+    }
+    .copy_right_footer{
+        bottom:0;
+        position:fixed;
+        line-height: 2;
+        font-size:xx-large;
+        font-family: "Dancing Script";
+        text-align: center;
+        background-color: cornflowerblue;
+        width:100%;
+    }
